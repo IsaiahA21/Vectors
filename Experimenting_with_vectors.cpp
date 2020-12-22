@@ -1,5 +1,4 @@
-// ENSF 337 - Lab 9 - exercise C
-// lab9ExC.cpp
+
 
 #include<vector>
 #include<string>
